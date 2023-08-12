@@ -1,0 +1,18 @@
+{
+  "name": "todoauthentication-main",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/yuvi-bhatnagar/TodoAuthentication/assets/108606754/8245c4b5-cf79-4b27-af73-1a514f78f614)\r # Sign Up page\r ![image](https://github.com/yuvi-bhatnagar/TodoAuthentication/assets/108606754/3834358e-6936-4046-aea7-b8db6e4d991b)\r # Home Page\r ![image](https://github.com/yuvi-bhatnagar/TodoAuthentication/assets/108606754/2865d10d-32f3-4c8c-b304-34b1d243b68f)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "server": "^1.0.38"
+  }
+}
